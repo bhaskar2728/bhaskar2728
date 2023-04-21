@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhaskar Purohit
-- 👀 I’m interested in Android App Development and AI
+- 👀 I’m interested in Mobile App Development and AI
 - 🌱 I’m currently learning Combining ML with Android
 - 💞️ I’m looking to collaborate on AI related projects
 - 📫 How to reach me Just mail me at bhaskarpurohit27@gmail.com
